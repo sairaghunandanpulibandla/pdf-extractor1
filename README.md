@@ -35,7 +35,7 @@ Welcome to Yourreal PDF, a powerful platform designed to extract specific pages 
 2. Navigate to the project directory:
 
    ```shell
-   cd pdf-extractor
+   cd pdf-extractor1
    ```
 
 3. Install the dependencies using your preferred package manager in both the server and client directories:
