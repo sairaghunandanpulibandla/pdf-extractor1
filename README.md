@@ -1,6 +1,6 @@
 # Yourreal PDF
 
-Welcome to PDF Slice Master, a powerful platform designed to extract specific pages from PDF files and create new PDFs with ease. With PDF Slice Master, you can effortlessly upload your PDF files and customize your new PDFs by specifying the pages you need. This project leverages a robust technology stack that includes Node.js, Express, MongoDB, Mongoose, and TypeScript, following clean architecture principles to ensure maintainability and scalability.
+Welcome to Yourreal PDF, a powerful platform designed to extract specific pages from PDF files and create new PDFs with ease. With Yourreal PDF, you can effortlessly upload your PDF files and customize your new PDFs by specifying the pages you need. This project leverages a robust technology stack that includes Node.js, Express.js, MongoDB, Mongoose, and TypeScript, following clean architecture principles to ensure maintainability and scalability.
 
 ## Live Link of the application
 
@@ -13,7 +13,7 @@ Welcome to PDF Slice Master, a powerful platform designed to extract specific pa
 3. [Usage](#usage)
    - [Development](#usage-for-development)
    - [Production](#usage-for-production)
-4. [How to Use PDF Slice Master](#how-to-use-pdf-slice-master)
+4. [How to Use Yourreal PDF](#How-to-Use-Yourreal-PDF)
 4. [Key Features](#key-features)
 5. [Error Handling](#error-handling)
 6. [APIs](#apis)
@@ -89,9 +89,9 @@ Explore the Swagger documentation at [http://localhost:4000/docs](http://localho
 
 (Repeat the same process to set up and access the React application located in the client directory.)
 
-## How to Use PDF Slice Master
+## How to Use Yourreal PDF
 
-Here's a step-by-step guide on how to use PDF Slice Master to extract specific pages from PDF files:
+Here's a step-by-step guide on how to use Yourreal PDF to extract specific pages from PDF files:
 
 1. Select a PDF File
 
@@ -277,7 +277,7 @@ The project follows a clean architecture and utilizes the following technologies
 
 ## Tools and Stack
 
-### Framework (Express.js)
+### Framework (Express.js & Node.js)
 
 Express.js is a fast, minimalist, and flexible Node.js web application framework that simplifies the development of server-side applications, making it ideal for building RESTful APIs, web applications, and microservices.
 
