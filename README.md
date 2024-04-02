@@ -4,7 +4,7 @@ Welcome to PDF Slice Master, a powerful platform designed to extract specific pa
 
 ## Live Link of the application
 
-[ PDF Slice Master](https://pdf-extractor-ecru.vercel.app)
+[ Yourreal PDF](https://pdf-extractor-ecru.vercel.app)
 
 ## Table of Contents
 
